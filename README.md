@@ -23,7 +23,7 @@ Developing my ePortfolio has helped me identify my professional strengths and re
 
 ## Enhancement Journal
 <details>
-<summary>Enhancement 1</summary>
+<summary>Enhancement 1 - Software Design and Engineering</summary>
   The artifact I selected is a Python Dash dashboard that connects to my MongoDB CRUD module (the AnimalShelter class). It was originally created in a previous course to fulfill client requirements for Grazioso Salvare, where I built a database interface and visual dashboard for the Austin Animal Center dataset. The initial version provided a simple layout with filters, a data table, and basic queries. In the Capstone, I took this existing work and refactored it into a modular Dash application with a cleaner structure, including separate layout, callbacks, and service layers.
 
   I chose this artifact for my ePortfolio because it demonstrates my ability to design and implement a full-stack solution that integrates a database back end with a user-facing web interface. The dashboard highlights multiple skills: database operations via CRUD in MongoDB, query optimization using projection and pagination, and front-end design using Dash components. The enhancements also showcase my knowledge of secure coding practices, since I replaced hardcoded connection details with environment variables and added query whitelisting. Together, these improvements demonstrate both technical depth and professional readiness.
@@ -34,7 +34,7 @@ Developing my ePortfolio has helped me identify my professional strengths and re
 </details>
 
 <details>
-  <summary>Enhancement 2</summary>
+  <summary>Enhancement 2 - Algorithms and Data Structures</summary>
   The artifact I worked on for this enhancement is the service layer of my Python Dash dashboard, which interfaces with MongoDB through my CRUD module. This component was originally created in an earlier course to support queries for the Austin Animal Center dataset and display results in the dashboard’s table and metrics. The original version was functional but limited: it used basic find queries without optimizations and recalculated aggregations each time. In the Capstone, I revisited this artifact to strengthen its efficiency, scalability, and algorithmic rigor.
   
   I selected this artifact for my ePortfolio because it highlights my ability to apply algorithms and data structures in a practical way to improve application performance. The enhancements demonstrate key skills: implementing keyset pagination for efficient query traversal, designing compound indexes aligned with frequent filters, and building caching mechanisms for repeated aggregations like top breeds and age histograms. These improvements show how I can go beyond simply making an application work to making it robust, scalable, and performant. The refactoring also showcases my ability to think critically about trade-offs in algorithmic design.
@@ -45,7 +45,7 @@ Developing my ePortfolio has helped me identify my professional strengths and re
 </details>
 
 <details>
-  <summary>Enhancement 3</summary>
+  <summary>Enhancement 3 - Databases</summary>
   The artifact I selected for Category Three is my Python-based MongoDB CRUD module, which serves as the database interface for my Dash dashboard. This component was originally created in an earlier course as part of the Grazioso Salvare project to handle create, read, update, and delete operations for the Austin Animal Center dataset. At that time, it used simple database methods without structured responses or strong validation. For the Capstone project, I revisited this module to make it secure, maintainable, and production-ready, ensuring it could integrate seamlessly with the Dash front end and support caching from my algorithmic enhancements.
   
   I chose this artifact for my ePortfolio because it demonstrates a solid understanding of database design, data access patterns, and software engineering best practices. The updated module showcases my ability to modernize code using the latest PyMongo methods, implement pagination and projections for efficiency, and secure configuration through environment variables. I also added structured JSON-style responses to improve readability and debugging, as well as validation to ensure safe data handling. These improvements highlight my ability to work on real-world data systems where performance, security, and consistency are equally important.

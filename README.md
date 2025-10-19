@@ -14,9 +14,9 @@ Developing my ePortfolio has helped me identify my professional strengths and re
 
 ## Original Code Review
 
-[Origianl Code Review Video](\code-review-video.mp4)
+[Code Review Video](\code-review-video.mp4)
 
-## Enhancement Proposal
+## Enhancement Plan
 1.	**Software Design and Engineering** – Here I planned to walk through the overall design of the AnimalShelter class, highlighting strengths such as clear structure, but also pointing out weaknesses such as outdated method calls, lack of documentation, and poor error handling. My outline ensured I explained what the code currently does, why certain issues matter, and what enhancements I plan to make.
 2.	**Algorithms and Data Structures** – In this section, I focused on how filters and queries are built in the dashboard. My outline included noting inefficiencies like applying filters in Python after fetching data, reliance on raw strings for breed names, and the absence of pagination. I made sure to describe both the current logic and the improvements I plan, such as centralized query builders, using constants or enums, and leveraging MongoDB aggregation pipelines.
 3.	**Databases** – For the database review, my outline guided me to show how the AnimalShelter class connects to MongoDB and interacts with the animals collection. I discussed the strengths of direct CRUD operations but emphasized weaknesses such as lack of projections, missing index usage, and hard-coded credentials. My script included specific enhancement plans like adding projections, ensuring indices on frequent queries, and adding connection timeouts and error handling.

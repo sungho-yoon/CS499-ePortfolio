@@ -2,4 +2,4 @@
 
 ## Self-Assessment
 
-[Self Assessment Journal][/Self Assessment.docx]
+[Self Assessment Journal](/Self Assessment.docx)

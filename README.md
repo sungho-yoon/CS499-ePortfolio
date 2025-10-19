@@ -14,7 +14,7 @@ Developing my ePortfolio has helped me identify my professional strengths and re
 
 ## Original Code Review
 
-[View this document](\code-review-video.mp4)
+[Origianl Code Review Video](\code-review-video.mp4)
 
 ## Enhancement Proposal
 1.	Software Design and Engineering – Here I planned to walk through the overall design of the AnimalShelter class, highlighting strengths such as clear structure, but also pointing out weaknesses such as outdated method calls, lack of documentation, and poor error handling. My outline ensured I explained what the code currently does, why certain issues matter, and what enhancements I plan to make.

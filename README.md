@@ -2,4 +2,4 @@
 
 ## Self-Assessment
 
-[View the document][./Self Assessment.docx]
+[View the document][/Self Assessment.docx]
